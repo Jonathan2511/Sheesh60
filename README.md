@@ -11,7 +11,7 @@ As you may or may not know, I have previously created and designed a keyboard ca
 
 Disclaimer: Use these files at your own risk.
 
-![Sheesh60](https://ibb.co/H7Lm8p6)
+![Sheesh60](https://i.ibb.co/5TXqHxm/image.png)
 
 ## Assembly
 For the components required, you may refer to the bill of materials included along with the release as reference or load up the design file.
